@@ -1,4 +1,5 @@
 object FrmServico: TFrmServico
+  HitTest = False
   Size.Width = 320.000000000000000000
   Size.Height = 60.000000000000000000
   Size.PlatformDefault = False
@@ -40,6 +41,7 @@ object FrmServico: TFrmServico
   object rect_agendar: TRectangle
     Align = Right
     Fill.Color = xFF5CC6BA
+    HitTest = False
     Margins.Top = 8.000000000000000000
     Margins.Right = 10.000000000000000000
     Margins.Bottom = 8.000000000000000000

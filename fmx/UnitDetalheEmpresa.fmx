@@ -5,11 +5,12 @@ object FrmDetalheEmpresa: TFrmDetalheEmpresa
   ClientHeight = 550
   ClientWidth = 320
   Fill.Kind = Solid
+  Position = MainFormCenter
   FormFactor.Width = 320
   FormFactor.Height = 480
   FormFactor.Devices = [Desktop]
   OnShow = FormShow
-  DesignerMasterStyle = 3
+  DesignerMasterStyle = 0
   object img_foto: TImage
     MultiResBitmap.Height = 480
     MultiResBitmap.Width = 640
@@ -14891,6 +14892,7 @@ object FrmDetalheEmpresa: TFrmDetalheEmpresa
     DefaultItemStyles.ItemStyle = ''
     DefaultItemStyles.GroupHeaderStyle = ''
     DefaultItemStyles.GroupFooterStyle = ''
+    OnItemClick = lb_servicoItemClick
     Viewport.Width = 320.000000000000000000
     Viewport.Height = 206.000000000000000000
   end
