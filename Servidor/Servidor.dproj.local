@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/07 13:56:49.000.489,=C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/29 08:12:00.088,=C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/29 08:13:24.413,C:\Delphi\Agendei\Servidor\UnitPrincipal.fmx=C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/01/29 08:13:24.413,C:\Delphi\Agendei\Servidor\UnitPrincipal.pas=C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/29 08:13:32.007,C:\Delphi\Agendei\Servidor\Servidor.dproj=C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/01/29 08:19:32.183,=C:\Delphi\Agendei\Servidor\Unit1.pas</Transaction>
+    <Transaction>2021/01/29 08:20:09.501,C:\Delphi\Agendei\Servidor\UnitDM.dfm=C:\Delphi\Agendei\Servidor\Unit1.dfm</Transaction>
+    <Transaction>2021/01/29 08:20:09.501,C:\Delphi\Agendei\Servidor\UnitDM.pas=C:\Delphi\Agendei\Servidor\Unit1.pas</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
