@@ -3,17 +3,30 @@
 	<Transactions>
     <Transaction>2021/01/07 13:56:49.000.489,=C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2021/01/26 08:46:13.000.900,=C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/01/26 08:48:45.000.564,C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Delphi\Agendei\UnitLogin.fmx</Transaction>
     <Transaction>2021/01/26 08:48:45.000.564,C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Delphi\Agendei\UnitLogin.pas</Transaction>
+    <Transaction>2021/01/26 08:48:45.000.564,C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Delphi\Agendei\UnitLogin.fmx</Transaction>
     <Transaction>2021/01/26 08:48:53.000.397,C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Delphi\Agendei\Agendei.dproj</Transaction>
-    <Transaction>2021/01/26 10:09:55.774,=C:\Delphi\Agendei\Unit2.pas</Transaction>
-    <Transaction>2021/01/26 10:10:49.083,C:\Delphi\Agendei\UnitPrincipal.fmx=C:\Delphi\Agendei\Unit2.fmx</Transaction>
-    <Transaction>2021/01/26 10:10:49.083,C:\Delphi\Agendei\UnitPrincipal.pas=C:\Delphi\Agendei\Unit2.pas</Transaction>
-    <Transaction>2021/01/26 10:39:16.603,=C:\Delphi\Agendei\Unit1.pas</Transaction>
-    <Transaction>2021/01/26 10:39:52.863,C:\Delphi\Agendei\UnitFrameCategoria.fmx=C:\Delphi\Agendei\Unit1.fmx</Transaction>
-    <Transaction>2021/01/26 10:39:52.863,C:\Delphi\Agendei\UnitFrameCategoria.pas=C:\Delphi\Agendei\Unit1.pas</Transaction>
+    <Transaction>2021/01/26 10:09:55.000.774,=C:\Delphi\Agendei\Unit2.pas</Transaction>
+    <Transaction>2021/01/26 10:10:49.000.083,C:\Delphi\Agendei\UnitPrincipal.pas=C:\Delphi\Agendei\Unit2.pas</Transaction>
+    <Transaction>2021/01/26 10:10:49.000.083,C:\Delphi\Agendei\UnitPrincipal.fmx=C:\Delphi\Agendei\Unit2.fmx</Transaction>
+    <Transaction>2021/01/26 10:39:16.000.603,=C:\Delphi\Agendei\Unit1.pas</Transaction>
+    <Transaction>2021/01/26 10:39:52.000.863,C:\Delphi\Agendei\UnitFrameCategoria.fmx=C:\Delphi\Agendei\Unit1.fmx</Transaction>
+    <Transaction>2021/01/26 10:39:52.000.863,C:\Delphi\Agendei\UnitFrameCategoria.pas=C:\Delphi\Agendei\Unit1.pas</Transaction>
+    <Transaction>2021/01/27 07:34:41.000.841,=C:\Delphi\Agendei\Unit1.pas</Transaction>
+    <Transaction>2021/01/27 07:35:26.000.036,C:\Delphi\Agendei\Unit1.pas=C:\Delphi\Agendei\UnitFrameAgendamento.pas</Transaction>
+    <Transaction>2021/01/27 07:35:26.000.036,C:\Delphi\Agendei\Unit1.fmx=C:\Delphi\Agendei\UnitFrameAgendamento.fmx</Transaction>
+    <Transaction>2021/01/27 08:40:01.000.106,=C:\Delphi\Agendei\Unit1.pas</Transaction>
+    <Transaction>2021/01/27 08:41:05.000.303,C:\Delphi\Agendei\Unit1.pas=C:\Delphi\Agendei\UnitDetalheEmpresa.pas</Transaction>
+    <Transaction>2021/01/27 08:41:05.000.303,C:\Delphi\Agendei\Unit1.fmx=C:\Delphi\Agendei\UnitDetalheEmpresa.fmx</Transaction>
+    <Transaction>2021/01/27 08:53:31.000.191,=C:\Delphi\Agendei\Unit1.pas</Transaction>
+    <Transaction>2021/01/27 08:54:39.000.564,C:\Delphi\Agendei\Unit1.fmx=C:\Delphi\Agendei\UnitFrameServico.fmx</Transaction>
+    <Transaction>2021/01/27 08:54:39.000.564,C:\Delphi\Agendei\Unit1.pas=C:\Delphi\Agendei\UnitFrameServico.pas</Transaction>
+    <Transaction>2021/01/28 07:39:13.000.050,=C:\Delphi\Agendei\Unit1.pas</Transaction>
+    <Transaction>2021/01/28 07:41:22.000.100,C:\Delphi\Agendei\UnitAgenda.fmx=C:\Delphi\Agendei\Unit1.fmx</Transaction>
+    <Transaction>2021/01/28 07:41:22.000.100,C:\Delphi\Agendei\UnitAgenda.pas=C:\Delphi\Agendei\Unit1.pas</Transaction>
+    <Transaction>2021/01/28 08:00:53.000.160,=C:\Delphi\Agendei\Units\uCustomCalendar.pas</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
-		<NoProfile iOSSimulator="iPhone5"/>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
 	</ActiveMobileDevice>
 </BorlandProject>
