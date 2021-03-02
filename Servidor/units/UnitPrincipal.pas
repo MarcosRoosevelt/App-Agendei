@@ -27,8 +27,11 @@ implementation
 
 {$R *.fmx}
 
+uses UnitDM;
+
 procedure TFrmPrincipal.FormShow(Sender: TObject);
 begin
+    ServicePooler.ServerMethodClass := TDm;
     ServicePooler.Active := Switch1.IsChecked;
 end;
 
